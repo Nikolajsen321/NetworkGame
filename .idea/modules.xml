@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aflvering/Aflvering.iml" filepath="$PROJECT_DIR$/Aflvering/Aflvering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Netvearksspil.iml" filepath="$PROJECT_DIR$/Netvearksspil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Respawn/Respawn.iml" filepath="$PROJECT_DIR$/Respawn/Respawn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/opgave/opgave.iml" filepath="$PROJECT_DIR$/opgave/opgave.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
+    </modules>
+  </component>
+</project>
